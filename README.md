@@ -3,7 +3,7 @@ PYTHON INTERVIEW QUESTIONS
 
 ## Список вопросов
 
-- [Python](questions.md/#Python)
+- <details><summary>[Python](questions.md/#Python)</summary>
   * [Последовательности](questions.md/#Последовательности)
     + [Что такое последовательность](questions.md/#Что-такое-последовательность)
     + [Какие операции поддерживают большинство последовательностей](questions.md/#Какие-операции-поддерживают-большинство-последовательностей)
@@ -161,6 +161,7 @@ PYTHON INTERVIEW QUESTIONS
   * [Что такое garbage collector. В чём его плюсы и минусы](questions.md/#Что-такое-garbage-collector-В-чём-его-плюсы-и-минусы)
   * [Что такое интроспекция](questions.md/#Что-такое-интроспекция)
   * [Что такое рефлексия](questions.md/#Что-такое-рефлексия)
+</details>
 - [Django](questions.md/#Django)
   * [Что такое Middleware, для чего, как реализуется](questions.md/#Что-такое-Middleware-для-чего-как-реализуется)
   * [Назовите основные мидлвари. Зачем они нужны](questions.md/#Назовите-основные-мидлвари-Зачем-они-нужны)
