@@ -2,8 +2,8 @@
 PYTHON INTERVIEW QUESTIONS
 
 ## Список вопросов
-
-- <details><summary>[Python](questions.md/#Python)</summary>
+<details><summary>PYTHON QUESTIONS</summary>
+- [Python](questions.md/#Python)
   * [Последовательности](questions.md/#Последовательности)
     + [Что такое последовательность](questions.md/#Что-такое-последовательность)
     + [Какие операции поддерживают большинство последовательностей](questions.md/#Какие-операции-поддерживают-большинство-последовательностей)
@@ -162,6 +162,7 @@ PYTHON INTERVIEW QUESTIONS
   * [Что такое интроспекция](questions.md/#Что-такое-интроспекция)
   * [Что такое рефлексия](questions.md/#Что-такое-рефлексия)
 </details>
+<details><summary>DJANGO QUESTIONS</summary>
 - [Django](questions.md/#Django)
   * [Что такое Middleware, для чего, как реализуется](questions.md/#Что-такое-Middleware-для-чего-как-реализуется)
   * [Назовите основные мидлвари. Зачем они нужны](questions.md/#Назовите-основные-мидлвари-Зачем-они-нужны)
@@ -174,6 +175,8 @@ PYTHON INTERVIEW QUESTIONS
   * [За что отвечает Meta в сериализаторе](questions.md/#За-что-отвечает-Meta-в-сериализаторе)
   * [Какая разница в быстродействии между django и Flask (и почему)](questions.md/#Какая-разница-в-быстродействии-между-django-и-Flask-и-почему)
   * [Как в django работает система аутентификации](questions.md/#Как-в-django-работает-система-аутентификации)
+</details>
+<details><summary>WEB QUESTIONS</summary>
 - [Веб-разработка](questions.md/#Веб-разработка)
   * [Что такое CGI. Плюсы, минусы](questions.md/#Что-такое-CGI-Плюсы-минусы)
   * [Как защитить куки от воровства и от подделки](questions.md/#Как-защитить-куки-от-воровства-и-от-подделки)
@@ -186,6 +189,8 @@ PYTHON INTERVIEW QUESTIONS
     + [Можем ли мы посылать SOAP сообщения с вложением](questions.md/#Можем-ли-мы-посылать-SOAP-сообщения-с-вложением)
     + [Как бы вы решили какой из REST или SOAP веб сервисов использовать](questions.md/#Как-бы-вы-решили-какой-из-REST-или-SOAP-веб-сервисов-использовать)
   * [Какие способы для мониторинга веб-приложений в production вы использовали или знаете](questions.md/#Какие-способы-для-мониторинга-веб-приложений-в-production-вы-использовали-или-знаете)
+</details>
+<details><summary>HTTP QUESTIONS</summary>
 - [HTTP](questions.md/#HTTP)
   * [Как устроен протокол HTTP](questions.md/#Как-устроен-протокол-HTTP)
   * [Написать raw запрос главной Яндекса](questions.md/#Написать-raw-запрос-главной-Яндекса)
@@ -195,6 +200,8 @@ PYTHON INTERVIEW QUESTIONS
   * [Как кэшируются файлы на уровне протокола](questions.md/#Как-кэшируются-файлы-на-уровне-протокола)
   * [Что такое HTTP](questions.md/#Что-такое-HTTP)
   * [Чем отличаются HTTP и HTTPS](questions.md/#Чем-отличаются-HTTP-и-HTTPS)
+</details>
+<details><summary>OOP QUESTIONS</summary>
 - [Общее](questions.md/#Общее)
   * [ООП](questions.md/#ООП)
     + [Инкапсуляция](questions.md/#Инкапсуляция)
@@ -243,6 +250,8 @@ PYTHON INTERVIEW QUESTIONS
   * [Какие готовые реализации MQ вы знаете](questions.md/#Какие-готовые-реализации-MQ-вы-знаете)
   * [Что такое RPC](questions.md/#Что-такое-RPC)
   * [Что такое gPRC](questions.md/#Что-такое-gPRC)
+</details>
+<details><summary>ALGORITMICS QUESTIONS</summary>
 - [Алгоритмы, структуры](questions.md/#Алгоритмы-структуры)
   * [Что такое рекурсия. Какие минусы, плюсы](questions.md/#Что-такое-рекурсия-Какие-минусы-плюсы)
   * [Что такое хвостовая рекурсия](questions.md/#Что-такое-хвостовая-рекурсия)
@@ -262,22 +271,16 @@ PYTHON INTERVIEW QUESTIONS
   * [Динамическое программирование](questions.md/#Динамическое-программирование)
   * [Алгоритм k ближайших соседей](questions.md/#Алгоритм-k-ближайших-соседей)
   * [Алгоритм Ричарда Фейнмана](questions.md/#Алгоритм-Ричарда-Фейнмана)
-- [Frontend](questions.md/#Frontend)
-  * [Что такое куки. Зачем они, как с ними работать и где они сохраняются](questions.md/#Что-такое-куки-Зачем-они-как-с-ними-работать-и-где-они-сохраняются)
-  * [Может ли сервер изменить (добавить, удалить) куки](questions.md/#Может-ли-сервер-изменить-добавить-удалить-куки)
-  * [Что такое JWT (JSON Web Token)](questions.md/#Что-такое-JWT-JSON-Web-Token)
-- [SDLC](questions.md/#SDLC)
-  * [Agile/Scrum](questions.md/#AgileScrum)
-  * [Какая разница между CI и CD](questions.md/#Какая-разница-между-CI-и-CD)
-  * [Какая разница между Scrum и Kanban](questions.md/#Какая-разница-между-Scrum-и-Kanban)
-  * [Вопрос для тим-лидов: что Вы будете делать, если на проекте нет тестов и заказчик не хочет тратить на их разработку время и деньги](questions.md/#Вопрос-для-тим-лидов-что-Вы-будете-делать-если-на-проекте-нет-тестов-и-заказчик-не-хочет-тратить-на-их-разработку-время-и-деньги)
-  * [Что такое Code Debt и как с ним быть](questions.md/#Что-такое-Code-Debt-и-как-с-ним-быть)
+</details>
+<details><summary>GIT QUESTIONS</summary>
 - [VCS](questions.md/#VCS)
   * [Что такое Git Flow](questions.md/#Что-такое-Git-Flow)
   * [Что такое Git Rebase](questions.md/#Что-такое-Git-Rebase)
   * [Что такое Git Cherry pick](questions.md/#Что-такое-Git-Cherry-pick)
   * [Что такое force push](questions.md/#Что-такое-force-push)
   * [Что такое pre-commit check](questions.md/#Что-такое-pre-commit-check)
+</details>
+<details><summary>DATABASE QUESTIONS</summary>
 - [БД](questions.md/#БД)
   * [Что такое транзакция. Какие у неё есть свойства](questions.md/#Что-такое-транзакция-Какие-у-неё-есть-свойства)
   * [Какие команды управления транзакциями вы знаете](questions.md/#Какие-команды-управления-транзакциями-вы-знаете)
@@ -288,13 +291,4 @@ PYTHON INTERVIEW QUESTIONS
   * [Что такое VACUUM в PostgreSQL](questions.md/#Что-такое-VACUUM-в-PostgreSQL)
   * [Что такое EXPLAIN. Какая разница между ним и EXPLAIN ANALYZE](questions.md/#Что-такое-EXPLAIN-Какая-разница-между-ним-и-EXPLAIN-ANALYZE)
   * [Какие виды Join'ов вы знаете, чем они отличаются друг от друга](questions.md/#Какие-виды-Joinов-вы-знаете-чем-они-отличаются-друг-от-друга)
-- [Дизайн-интервью](questions.md/#Дизайн-интервью)
-  * [План интервью](questions.md/#План-интервью)
-  * [1. Сбор требований](questions.md/#1-Сбор-требований)
-  * [2. Эстимейты](questions.md/#2-Эстимейты)
-  * [3. API](questions.md/#3-API)
-  * [4. High-level design](questions.md/#4-High-level-design)
-  * [5. Detailed design](questions.md/#5-Detailed-design)
-    + [Performance mantras](questions.md/#Performance-mantras)
-  * [6. Масштабирование](questions.md/#6-Масштабирование)
-    + [Performance bottlenecks](questions.md/#Performance-bottlenecks)
+</details>
