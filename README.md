@@ -1,9 +1,8 @@
-# python_interview_questions
 PYTHON INTERVIEW QUESTIONS
 
 ## Список вопросов
 <details><summary>PYTHON QUESTIONS</summary>
-- [Python](questions.md/#Python)
+
   * [Последовательности](questions.md/#Последовательности)
     + [Что такое последовательность](questions.md/#Что-такое-последовательность)
     + [Какие операции поддерживают большинство последовательностей](questions.md/#Какие-операции-поддерживают-большинство-последовательностей)
@@ -163,7 +162,7 @@ PYTHON INTERVIEW QUESTIONS
   * [Что такое рефлексия](questions.md/#Что-такое-рефлексия)
 </details>
 <details><summary>DJANGO QUESTIONS</summary>
-- [Django](questions.md/#Django)
+
   * [Что такое Middleware, для чего, как реализуется](questions.md/#Что-такое-Middleware-для-чего-как-реализуется)
   * [Назовите основные мидлвари. Зачем они нужны](questions.md/#Назовите-основные-мидлвари-Зачем-они-нужны)
   * [Опишите алгоритм работы CSRF middleware](questions.md/#Опишите-алгоритм-работы-CSRF-middleware)
@@ -177,7 +176,7 @@ PYTHON INTERVIEW QUESTIONS
   * [Как в django работает система аутентификации](questions.md/#Как-в-django-работает-система-аутентификации)
 </details>
 <details><summary>WEB QUESTIONS</summary>
-- [Веб-разработка](questions.md/#Веб-разработка)
+
   * [Что такое CGI. Плюсы, минусы](questions.md/#Что-такое-CGI-Плюсы-минусы)
   * [Как защитить куки от воровства и от подделки](questions.md/#Как-защитить-куки-от-воровства-и-от-подделки)
   * [Какая разница между аутентификацией и авторизацией](questions.md/#Какая-разница-между-аутентификацией-и-авторизацией)
@@ -191,7 +190,7 @@ PYTHON INTERVIEW QUESTIONS
   * [Какие способы для мониторинга веб-приложений в production вы использовали или знаете](questions.md/#Какие-способы-для-мониторинга-веб-приложений-в-production-вы-использовали-или-знаете)
 </details>
 <details><summary>HTTP QUESTIONS</summary>
-- [HTTP](questions.md/#HTTP)
+
   * [Как устроен протокол HTTP](questions.md/#Как-устроен-протокол-HTTP)
   * [Написать raw запрос главной Яндекса](questions.md/#Написать-raw-запрос-главной-Яндекса)
   * [Как клиенту понять, удался запрос или нет](questions.md/#Как-клиенту-понять-удался-запрос-или-нет)
@@ -202,7 +201,7 @@ PYTHON INTERVIEW QUESTIONS
   * [Чем отличаются HTTP и HTTPS](questions.md/#Чем-отличаются-HTTP-и-HTTPS)
 </details>
 <details><summary>OOP QUESTIONS</summary>
-- [Общее](questions.md/#Общее)
+
   * [ООП](questions.md/#ООП)
     + [Инкапсуляция](questions.md/#Инкапсуляция)
     + [Наследование](questions.md/#Наследование)
@@ -252,7 +251,7 @@ PYTHON INTERVIEW QUESTIONS
   * [Что такое gPRC](questions.md/#Что-такое-gPRC)
 </details>
 <details><summary>ALGORITMICS QUESTIONS</summary>
-- [Алгоритмы, структуры](questions.md/#Алгоритмы-структуры)
+
   * [Что такое рекурсия. Какие минусы, плюсы](questions.md/#Что-такое-рекурсия-Какие-минусы-плюсы)
   * [Что такое хвостовая рекурсия](questions.md/#Что-такое-хвостовая-рекурсия)
   * [Как можно оптимизировать хвостовую рекурсию в Python](questions.md/#Как-можно-оптимизировать-хвостовую-рекурсию-в-Python)
@@ -273,7 +272,7 @@ PYTHON INTERVIEW QUESTIONS
   * [Алгоритм Ричарда Фейнмана](questions.md/#Алгоритм-Ричарда-Фейнмана)
 </details>
 <details><summary>GIT QUESTIONS</summary>
-- [VCS](questions.md/#VCS)
+
   * [Что такое Git Flow](questions.md/#Что-такое-Git-Flow)
   * [Что такое Git Rebase](questions.md/#Что-такое-Git-Rebase)
   * [Что такое Git Cherry pick](questions.md/#Что-такое-Git-Cherry-pick)
@@ -281,7 +280,7 @@ PYTHON INTERVIEW QUESTIONS
   * [Что такое pre-commit check](questions.md/#Что-такое-pre-commit-check)
 </details>
 <details><summary>DATABASE QUESTIONS</summary>
-- [БД](questions.md/#БД)
+
   * [Что такое транзакция. Какие у неё есть свойства](questions.md/#Что-такое-транзакция-Какие-у-неё-есть-свойства)
   * [Какие команды управления транзакциями вы знаете](questions.md/#Какие-команды-управления-транзакциями-вы-знаете)
   * [Что такое уровни изолированности транзакций. Какие они бывают](questions.md/#Что-такое-уровни-изолированности-транзакций-Какие-они-бывают)
@@ -292,3 +291,10 @@ PYTHON INTERVIEW QUESTIONS
   * [Что такое EXPLAIN. Какая разница между ним и EXPLAIN ANALYZE](questions.md/#Что-такое-EXPLAIN-Какая-разница-между-ним-и-EXPLAIN-ANALYZE)
   * [Какие виды Join'ов вы знаете, чем они отличаются друг от друга](questions.md/#Какие-виды-Joinов-вы-знаете-чем-они-отличаются-друг-от-друга)
 </details>
+
+
+## ЗАДАЧИ
+<details><summary>ЗАДАЧИ С ВАРИАНТАМИ РЕШЕНИЙ</summary>
+
+  * [Как преобразовать словарь в список?](tasks.md/#Как преобразовать словарь в список?)
+  * [Как определить сколько раз буква встречается в строке?](tasks.md/#Как определить сколько раз буква встречается в строке?)
