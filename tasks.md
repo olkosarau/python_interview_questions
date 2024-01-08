@@ -11,6 +11,7 @@ for key, val in dict_data.items():
         result.append(val)
    
 ### Как определить сколько раз буква встречается в строке?
+
 1. - Для всех букв в строке s  {c:s.count(c) for c in set(s)}
    - from collections import Counter  
 letter_counting = Counter(string)
